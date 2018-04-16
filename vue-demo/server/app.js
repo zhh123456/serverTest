@@ -20,7 +20,10 @@ app.get('/getList.json',function(req,res){
         list: [  
             {name: '苹果'},  
             {name: '香蕉'},  
-            {name: '梨子'}  
+            {name: '梨子'},
+            {name: '苹果1'},  
+            {name: '香蕉2'},  
+            {name: '梨子3'} 
         ]  
     };  
   
